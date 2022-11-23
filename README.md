@@ -1,2 +1,2 @@
-# curriculo.github.io
+# curriculo
 Curriculo
